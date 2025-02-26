@@ -1,0 +1,24 @@
+{
+  "name": "serverdemo",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatha-27/ServerDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshatha-27/ServerDemo/issues"
+  },
+  "homepage": "https://github.com/akshatha-27/ServerDemo#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
